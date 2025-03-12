@@ -1,16 +1,25 @@
 demo working link : https://style-transfer-app-16.onrender.com
 imput images:   input1.
+![image2](https://github.com/user-attachments/assets/d6218b46-72d6-4480-bb9a-16b51317efca)
 
-![image1](https://github.com/user-attachments/assets/af6c639d-2c0c-43ad-adaa-66bced688260)
   
   
   input2.
 
-  
-  ![image2](https://github.com/user-attachments/assets/014dd646-a7cf-4250-abc8-7ee4e3f04ed8)
+  ![image1](https://github.com/user-attachments/assets/083ffc08-e9e1-4c26-9db2-176163687233)
+
+ 
   
   
   3. output:
   
   
   ![output](https://github.com/user-attachments/assets/e3053031-0133-4da6-9f15-7ece78a13d63)
+
+
+
+  demo link screenshot:
+
+
+  
+![url](https://github.com/user-attachments/assets/84f75f05-04ee-468e-80a9-5e657c119ea1)
