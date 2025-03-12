@@ -1,9 +1,9 @@
 demo working link : https://style-transfer-app-16.onrender.com
-imput images: 1.
+imput images:   input1.
 ![image1](https://github.com/user-attachments/assets/af6c639d-2c0c-43ad-adaa-66bced688260)
   
   
-  2.
+  input2.
   ![image2](https://github.com/user-attachments/assets/014dd646-a7cf-4250-abc8-7ee4e3f04ed8)
   
   
