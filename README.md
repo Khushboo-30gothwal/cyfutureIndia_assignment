@@ -1,4 +1,4 @@
-demo working link : https://huggingface.co/spaces/missdragon/neural_space_transfer
+demo working link : https://huggingface.co/spaces/khushboogothwal/neural_space_transfer
 
 
 imput images:  
